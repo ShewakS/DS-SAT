@@ -1,0 +1,10 @@
+zone_id,zone_type,distance_band
+A,Fast-moving,Near
+B,Bulk,Far
+C,Small Parts,Medium
+D,Fragile,
+E,Fast-moving,Medium
+F,Bulk,Near
+G,Cold storage ,Far
+H,Small Parts,Near
+B,Bulk Storage,Far

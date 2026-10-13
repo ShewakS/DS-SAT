@@ -1,0 +1,82 @@
+item_id,category,size,storage_class
+I0001,Fragile Goods,Small,Standard
+I0002,Small Parts,Small,Fragile
+I0003,,Small,Climate-Controlled
+I0004,Electronics,Small,Standard
+I0005,Apparel,Small,Climate-Controlled
+I0006,Bulk Materials,Small,Bulk
+I0007,Small Parts,Medium,Fragile
+I0008,Bulk Materials,Small,
+I0009,Bulk Materials,Small,Fragile
+I0010,Fragile Goods,Medium,Standard
+I0011,Fragile Goods,Medium,Climate-Controlled
+I0012,,Large,Bulk
+I0013,Home Goods,Medium,
+I0014,,Medium,Standard
+I0015,Bulk Materials,Medium,Fragile
+I0016,,Small,Bulk
+I0017,Bulk Materials,Medium,Bulk
+I0018,Bulk Materials,Small,Bulk
+I0019,Fragile Goods,Medium,Bulk
+I0020,Apparel,Small,Bulk
+I0021,Apparel,Small,Standard
+I0022,,Small,Standard
+I0023,Home Goods,Medium,Bulk
+I0024,Fragile Goods,Small,Fragile
+I0025,Home Goods,Small,Fragile
+I0026,Bulk Materials,Small,Climate-Controlled
+I0027,,Large,Bulk
+I0028,Fragile Goods,Medium,Standard
+I0029,Small Parts,Medium,Standard
+I0030,Electronics,Small,Fragile
+I0031,,Large,Fragile
+I0032,Bulk Materials,LARGE ,Standard
+I0033,Small Parts,Medium,Bulk
+I0034,Bulk Materials,Small,Climate-Controlled
+I0035,,Medium,Fragile
+I0036,Apparel,Small,
+I0037, electronics ,Medium,Climate-Controlled
+I0038,Small Parts,Small,
+I0039,Apparel,Small,Fragile
+I0040,,Medium,Standard
+I0041,Bulk Materials,Large,Bulk
+I0042,Electronics,Medium,Standard
+I0043,Small Parts,Small,Fragile
+I0044, electronics ,Medium,Bulk
+I0045,Apparel,Large,Climate-Controlled
+I0046,Small Parts,Large,Standard
+I0047,Electronics,Small,
+I0048,Electronics,Large,Standard
+I0049,Small Parts,Medium,Standard
+I0050,Home Goods,Medium,Bulk
+I0051,Home Goods,Medium,Fragile
+I0052,Bulk Materials,,Bulk
+I0053,Small Parts,,Standard
+I0054,Small Parts,Small,Bulk
+I0055,Fragile Goods,Medium,Climate-Controlled
+I0056,Apparel,Medium,Fragile
+I0057,Apparel,Medium,Bulk
+I0058,Home Goods,Medium,
+I0059,Electronics,Medium,Bulk
+I0060,Small Parts,Large,Climate-Controlled
+I0061,Home Goods,Small,Climate-Controlled
+I0062,Home Goods,Medium,Bulk
+I0063,Home Goods,Large,Fragile
+I0064,Small Parts,Small,
+I0065,Small Parts,Medium,Fragile
+I0066,Bulk Materials,Large,Bulk
+I0067,Bulk Materials,Small,Climate-Controlled
+I0068,Electronics,Medium,Climate-Controlled
+I0069,Electronics,Large,Climate-Controlled
+I0070,Bulk Materials,Small,Standard
+I0071,Bulk Materials,Large,Bulk
+I0072,Electronics,Medium,Climate-Controlled
+I0073,,Small,Bulk
+I0074,Fragile Goods,Medium,Climate-Controlled
+I0075,Fragile Goods,Small,Standard
+I0076,Fragile Goods,,Climate-Controlled
+I0077,Bulk Materials,Small,
+I0078,Apparel,Medium,Climate-Controlled
+I0079,Fragile Goods,Small,Bulk
+I0080,Fragile Goods,Small,Bulk
+I0010,Fragile Goods,Medium,Standard
